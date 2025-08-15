@@ -47,3 +47,5 @@ The project demonstrates effective use of neural networks and hyperparameter tun
 * `matplotlib` for visualization
 * `sklearn` for metrics and train-test split
 
+
+The dataset used in this project is the Telecom Customer Churn dataset, which can be accessed via the following link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
